@@ -1,5 +1,4 @@
 from random import randint
-from module import run_game
 
 INTRO = '''РАССЧИТАЙ И ПОБЕДИ!
 Загрузка...
